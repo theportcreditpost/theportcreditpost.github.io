@@ -1,7 +1,7 @@
-import './App.css';
-import Navbar from './components/Navbar';
-import Header from './components/Header';
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import "./App.css";
+import Navbar from "./components/Navbar";
+import Header from "./components/Header";
+import { HashRouter as Router, Routes, Route } from "react-router-dom";
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         <Header />
         <Navbar />
         <Routes>
-          <Route path='/' exact />
+          <Route path="/" exact />
         </Routes>
       </Router>
     </>
