@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/theportcreditpost.github.io/static/css/main.364b25b9.css",
+    "main.js": "/theportcreditpost.github.io/static/js/main.c781a56f.js",
+    "static/media/logo.png": "/theportcreditpost.github.io/static/media/logo.86c466dfc2feb55a26f9.png",
+    "static/media/title.png": "/theportcreditpost.github.io/static/media/title.143414c51b0d41f1eace.png",
+    "index.html": "/theportcreditpost.github.io/index.html",
+    "main.364b25b9.css.map": "/theportcreditpost.github.io/static/css/main.364b25b9.css.map",
+    "main.c781a56f.js.map": "/theportcreditpost.github.io/static/js/main.c781a56f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.364b25b9.css",
+    "static/js/main.c781a56f.js"
+  ]
+}
