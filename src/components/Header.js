@@ -10,6 +10,12 @@ function Header() {
             <img src={logo} alt='Lighthouse Logo' id='logo' />
             <img src={title} alt='The Port Credit Post' id='title'/>
           </div>
+          <p class="text">
+            <span> JANUARY NEWSLETTER OUT NOW!</span>
+          </p>
+          <p class="text text2">
+            <span> SEE ARTICLES AND IMAGES BELOW!</span>
+          </p>
         </>
     );
 }
