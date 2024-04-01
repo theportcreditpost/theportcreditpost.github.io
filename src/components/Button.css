@@ -1,15 +1,17 @@
 :root {
-    --primary: #04213C;
-    --secondary: #FCDCBC;
+  --primary: #04213c;
+  --secondary: #fcdcbc;
 }
 
 .btn {
-    padding: 8px 20px;
-    border-radius: 2px;
-    outline: none;
-    border: none;
-    cursor: pointer;
-    background-color: var(--primary);
-    color: var(--secondary);
-    display: inline-block;
+  padding: 8px 20px;
+  border-radius: 2px;
+  outline: none;
+  border: none;
+  cursor: pointer;
+  background-color: var(--primary);
+  color: var(--secondary);
+  display: inline-block;
 }
+
+/* hover */
