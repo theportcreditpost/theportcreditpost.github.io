@@ -1,3 +1,3 @@
-"# theportcreditpost.github.io" 
-"# theportcreditpost.github.io" 
-"# theportcreditpost.github.io" 
+Newsletter Website for Port Credit Secondary School
+
+Live site can be viewed @ theportcreditpost.github.io
