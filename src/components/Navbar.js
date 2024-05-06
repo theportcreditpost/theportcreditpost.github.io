@@ -93,7 +93,6 @@ function Navbar() {
               </Link>
             </li>
           </ul>
-          {/* {button && <Button>SIGN UP</Button>} */}
         </div>
       </nav>
     </>

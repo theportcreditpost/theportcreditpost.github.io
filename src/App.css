@@ -4,13 +4,53 @@
   padding: 0;
 }
 
-/* .home,
-.services,
-.products,
-.sign-up {
+:root {
+  --primary: #04213c;
+  --secondary: #fcdcbc;
+  --tertiary: #09253e;
+}
+
+a {
+  text-decoration: none;
+}
+
+.container {
+  max-width: 90%;
+  margin: auto;
+}
+
+.flexSB {
   display: flex;
-  height: 90vh;
   align-items: center;
-  justify-content: center;
-  font-size: 3rem;
-} */
+  justify-content: space-between;
+}
+
+.flex {
+  display: flex;
+}
+
+.paddingTB {
+  padding: 40px 0;
+}
+
+.paddingSmall {
+  padding: 20px 0;
+}
+
+li,
+ul {
+  list-style-type: none;
+}
+
+.category {
+  font-size: 12px;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #fff;
+  padding: 5px 10px;
+  letter-spacing: 2px;
+}
+
+.texts {
+  font-family: "Calistoga", sans-serif;
+}
