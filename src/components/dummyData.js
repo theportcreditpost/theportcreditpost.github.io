@@ -3,18 +3,19 @@ export const hero = [
     id: 1,
     cover: "../images/hero/hero1.jpg",
     category: "featured",
-    title: "Google To Boost Android Security In Few Days",
-    authorName: "Salman",
+    title: "Holi Smokes!",
+    authorName: "Ummema",
     authorImg: "../images/author.jpg",
-    time: "5 Jun - 2022",
+    time: "Apr 30 - 2024",
+    photo: "../images/hero/hero1.jpg",
     desc: [
       {
         para1:
-          "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+          "Port Credit Secondary School turned into the ultimate color battleground during the Holi event!",
       },
       {
         para2:
-          "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+          "We had everything from spicy samosas to sweet gulab jamuns, as well as mouth watering pani puri! (we all know it's called gol gappe)",
       },
       {
         para3:
@@ -23,11 +24,11 @@ export const hero = [
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "A wild fusion of vibrant hues!",
       },
       {
         para1:
-          "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.",
+          "The best part? Seeing the teachers get in on the action, their shirts and ties transformed into kaleidoscopes of color. Who knew Mr. Partington could rock color so effortlessly?",
       },
       {
         quote:
@@ -35,7 +36,7 @@ export const hero = [
       },
       {
         para2:
-          "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+          "As the event came to an end, one thing was certain, this event would go down in Port Credit history.",
       },
       {
         para3:
@@ -45,20 +46,21 @@ export const hero = [
   },
   {
     id: 2,
-    cover: "../images/hero/hero2.jpg",
-    category: "sport",
-    title: "More than billion football fans attend Brazil world cup",
-    authorName: "alex",
+    cover: "../images/hero/hero2.png",
+    category: "holiday",
+    title: '"Better a Witty Fool than a Foolish Wit" - Shakespeare',
+    authorName: "Maddy T. & Sam B.",
     authorImg: "../images/author.jpg",
-    time: "12 Aug - 2022",
+    time: "Apr 30 - 2024",
+    photo: "../images/hero/hero2.png",
     desc: [
       {
         para1:
-          "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+          "On the very first day of April, Port Credit's silliest and most bananas students come out of the woodwork to celebrate national day of the fools! In fact, those of us in Port Credit should be celebrating the preposterous holiday especially hard, considering that the man behind it all was a fellow attendee of our school Filap Loor was a treasured student, but he was constantly getting himself into trouble, causing mischief and riot.",
       },
       {
         para2:
-          "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+          "All was fine and dandy until he pranked the wrong person and was expelled from Port Credit! Distraught that their favourite jokester was gone, the students of Port Credit banded together to create a holiday to honour ol Filap, and so April Fools day was born. We owe it all to Mr. Loor so make sure to find time on this day to thank him! There have been a lot of notable moments in April Fools history, here are a few of our favorites!",
       },
       {
         para3:
@@ -67,11 +69,22 @@ export const hero = [
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Here are some notable moments:",
       },
       {
-        para1:
-          "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.",
+        para1: (
+          <div>
+            1. 1974: Fake volcanic eruption in Alaska by 50 year old Porky
+            Bickar. He pranked helicopters, local Coast Guard, firemen, and
+            police by piling up 70 old tires and lighting them on fire in a
+            vacant volcano, Mount Edgecumbe
+            <br />
+            2. 1980: The BBC reported that London's famous clock tower, Big Ben,
+            was undergoing a makeover-it would soon become a digital clock. The
+            BBC received countless concerned phone calls, only for the
+            complainers to realize they had been pranked.
+          </div>
+        ),
       },
       {
         quote:
@@ -79,7 +92,7 @@ export const hero = [
       },
       {
         para2:
-          "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+          "3.2024: Port Credit Post pranked YOU about the history of April Fools day!",
       },
       {
         para3:
@@ -90,19 +103,20 @@ export const hero = [
   {
     id: 3,
     cover: "../images/hero/hero3.jpg",
-    category: "fashion",
-    title: "No escaping new high tech speed cameras",
-    authorName: "rina",
+    category: "awareness",
+    title: "World Autism Awareness",
+    authorName: "John",
     authorImg: "../images/author.jpg",
-    time: "22 Mar - 2022",
+    time: "Apr 30 - 2024",
+    photo: "../images/hero/hero3.jpg",
     desc: [
       {
         para1:
-          "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+          "The United Nations General Assembly declared April 2nd as World Autism Awareness Day in 2007. The intention behind this date was to bring global attention to autism and the need for increased understanding and support for the autism community. Since then, World Autism Awareness Day has become a way to advocate for the rights of autistic people and celebrate their unique qualities. ",
       },
       {
         para2:
-          "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+          "The theme for the WAAD 2024 is ‘Empowering Autistic Voices', which looks for to provide greater support and empowerment to individuals with autism, allowing them to lead meaningful lives and active successful careers. ",
       },
       {
         para3:
@@ -111,11 +125,11 @@ export const hero = [
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: 'WAAD 2024 is "Empowering Autistic Voices"',
       },
       {
         para1:
-          "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.",
+          "An example of the Empowering of the autism community it is the 14-year-old Toronto artist with autism that is leaving his mark on Canada's art community despite only picking up a paintbrush. Niam Jain became the youngest recipient of the ANOKHI award being a representative and an example for the people of the Autism community.",
       },
       {
         quote:
@@ -123,7 +137,7 @@ export const hero = [
       },
       {
         para2:
-          "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+          "In this month of April let us have the mindset of learn and acknowledge about autism and their unique qualities.",
       },
       {
         para3:
@@ -133,20 +147,20 @@ export const hero = [
   },
   {
     id: 4,
-    cover: "../images/hero/hero4.jpg",
-    category: "technology",
-    title: "Emma Watson stands up for Turkish women",
-    authorName: "sunil",
+    cover: "../images/hero/hero5.jpg",
+    category: "tips and tricks",
+    title: "Ace Your Courses: Study Tips for Every Subject",
+    authorName: "Elsa A.",
     authorImg: "../images/author.jpg",
-    time: "08 Dec - 2022",
+    time: "Apr 30 - 2024",
+    photo: "../images/hero/hero5.jpg",
     desc: [
       {
-        para1:
-          "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+        para1: "Midterms are here, and it's time to get serious!",
       },
       {
         para2:
-          "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+          "Whether you're dealing with lots of books or trying to remember formulas, we’ve got tips to help you do well in all your subjects!",
       },
       {
         para3:
@@ -155,11 +169,31 @@ export const hero = [
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: "Here are tips for every subject:",
       },
       {
-        para1:
-          "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.",
+        para1: (
+          <div>
+            Math: Practice is key! Solve as many problems as you can from your
+            textbook and old tests. Try to understand the ideas, not just
+            memorize them. Textbook work is your best friend.
+            <br />
+            English: Read your assigned book(s) well. Take notes and think about
+            the characters storylines and main ideas. Don’t focus on nitty
+            gritty details. Practice writing essays with PEEL structure!
+            <br />
+            Science: Use pictures and diagrams! Make flashcards and drawings to
+            help you understand and quiz yourself with those. Also, watch videos
+            or look online for more help to understand the concept rather than
+            memorize it. Explain the topics to your friends to further ingrain
+            it into your brain.
+            <br />
+            French : Practice speaking and listening! Talk with friends or use
+            apps to practice. Review new words regularly. Try and converse with
+            your friends in French regularly and my favorite tip is to watch
+            French movies with French subtitles.
+          </div>
+        ),
       },
       {
         quote:
@@ -167,7 +201,7 @@ export const hero = [
       },
       {
         para2:
-          "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+          'Our school offers lunchtime and after-school support in many subjects. Come visit "Catch- Up Club/Counting on you" in Rm. 102, 104, and 107 from 2:15 to 4:15 on Tuesdays and Wednesdays!',
       },
       {
         para3:
@@ -177,20 +211,21 @@ export const hero = [
   },
   {
     id: 5,
-    cover: "../images/hero/hero4.jpg",
-    category: "technology",
-    title: "Emma Watson stands up for Turkish women",
-    authorName: "sunil",
+    cover: "../images/hero/hero4.png",
+    category: "entertainment",
+    title: "Let’s Watch Inside Out!",
+    authorName: "PCSS Writer",
     authorImg: "../images/author.jpg",
-    time: "08 Dec - 2022",
+    time: "Apr 30 - 2024",
+    photo: "../images/hero/popcorn.jpg",
     desc: [
       {
         para1:
-          "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+          "Were you at PCSS’ after school movie night? On April 4, 2024, the Student Activity Council (SAC) hosted a FREE movie night from 3 pm to 6 pm.",
       },
       {
         para2:
-          "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+          "Attendees were able to watch the nationally acclaimed film “Inside Out”! The 2015 film was a great choice for the first PCSS movie night. It was located in our school’s great auditorium.",
       },
       {
         para3:
@@ -199,11 +234,11 @@ export const hero = [
     ],
     details: [
       {
-        title: "Starting a new company is easy",
+        title: '"I went for the popcorn" - Anonymous PCSS Student',
       },
       {
         para1:
-          "Our teams are up to date with the latest technologies, media trends and are keen to prove themselves in this industry and that’s what you want from an advertising agency, not someone who is relying on the same way of doing things that worked 10 years, 5 years or even a year ago.",
+          "Additionally, the SAC offered fresh, delicious popcorn from their new popcorn machine as well as pop to be purchased for a toonie each!",
       },
       {
         quote:
@@ -211,7 +246,7 @@ export const hero = [
       },
       {
         para2:
-          "And, higher by agency; In from their in and we spirit, through merely and doctor's small him sounded a all now, with that put gift white highly geared that was left back as of or logged important. A over have the large try understanding the believe. Perfected been viewer. Shreds early willingly safely what passion the.",
+          "Don't worry if you missed your chance to attend the movie night, this was only the first of many more SAC movie nights to come!",
       },
       {
         para3:
@@ -221,7 +256,7 @@ export const hero = [
   },
   {
     id: 6,
-    cover: "../images/hero/hero4.jpg",
+    cover: "../images/hero/hero6.png",
   },
 ];
 export const world = [

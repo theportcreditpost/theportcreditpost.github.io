@@ -24,7 +24,7 @@ const Page = () => {
               <h1 className="title">{item.title}</h1>
               <div className="author">
                 <span>by</span>
-                <img src={item.authorImg} alt="" />
+                {/* <img src={item.authorImg} alt="" /> */}
                 <p>{item.authorName}</p>
                 <label htmlFor="">{item.time}</label>
               </div>
@@ -38,18 +38,19 @@ const Page = () => {
                   );
                 })}
               </div>
-              <img src={item.cover} alt="" />
+              <img src={item.photo} alt="" />
               <div className="bottom">
                 {item.details.map((data) => {
                   return (
                     <>
                       <h1>{data.title}</h1>
                       <p>{data.para1}</p>
+                      <p>{data.para2}</p>
                     </>
                   );
                 })}
               </div>
-              <div className="quote">
+              {/* <div className="quote">
                 <i className="fa fa-quote-left"></i>
                 {item.details.map((data) => {
                   return (
@@ -58,8 +59,8 @@ const Page = () => {
                     </>
                   );
                 })}
-              </div>
-              <div className="top">
+              </div> */}
+              {/* <div className="top">
                 {item.desc.map((data) => {
                   return (
                     <>
@@ -68,7 +69,7 @@ const Page = () => {
                     </>
                   );
                 })}
-              </div>
+              </div> */}
             </section>
           </div>
         </main>

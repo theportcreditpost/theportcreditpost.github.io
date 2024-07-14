@@ -5,7 +5,7 @@ const Events = () => {
     <>
       <div className="events">
         <div className="container paddingTB">
-          <h1>Coming Soon...</h1>
+          <h1>SEE YOU NEXT YEAR !!</h1>
         </div>
       </div>
     </>

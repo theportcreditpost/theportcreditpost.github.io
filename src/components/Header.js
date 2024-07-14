@@ -5,8 +5,8 @@ import "./Header.css";
 
 function Header() {
   const texts = [
-    "JANUARY NEWSLETTER OUT NOW!",
-    "SEE ARTICLES AND IMAGES BELOW!",
+    "APRIL NEWSLETTER OUT NOW!",
+    "CHECK INSTA TO SUBMIT A MASCOT IDEA!",
   ];
   const [currentIndex, setCurrentIndex] = useState(0);
   const delay = 10 / texts.length;

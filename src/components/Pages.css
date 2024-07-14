@@ -1,5 +1,6 @@
 main {
   margin-top: 50px;
+  font-family: "Trocchi", sans-serif;
 }
 
 .details {
@@ -22,6 +23,7 @@ main {
 .details .author p {
   text-transform: capitalize;
   margin-right: 10px;
+  margin-left: 5px; /* REMOVE */
 }
 
 .details .author img {
@@ -38,6 +40,8 @@ main {
 
 .details img {
   margin: 30px 0;
+  max-height: 800px;
+  width: auto;
 }
 
 .top p {
